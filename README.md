@@ -8,5 +8,5 @@ The below chapters are rendered via the *nbviewer* at
 Interactive notebooks + examples can be downloaded by cloning! 
 
 
-* [**Analysis**](http://nbviewer.ipython.org/github.com/wlamont/Snowboard_Analysis/blob/master/Snowboard_Analysis.ipynb)  . 
+* [**Analysis**](http://nbviewer.ipython.org/github/wlamont/Snowboard_Analysis/blob/master/Snowboard_Analysis.ipynb) 
 
